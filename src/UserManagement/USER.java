@@ -7,6 +7,6 @@ public class USER {
 	String password;
 	String confirmedpassword;
 	String userrole;
-        String usermobile;
+        
 
 }
